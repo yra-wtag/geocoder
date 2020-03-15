@@ -2,7 +2,7 @@ require "geocoder/results/google"
 
 module Geocoder
   module Result
-    class GoogleNearbyPlaces < Google
+    class GoogleNearbyPlacesSearch < Google
     end
   end
 end
